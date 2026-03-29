@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.rar
+*.gz
+*.zip
+.ipynb_checkpoints/
+outputs/
+data/
+BuildFastinCI.github.io-master/data/
+DL-CIBuild-main/dataset/
